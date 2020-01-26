@@ -1,0 +1,16 @@
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.deps.json
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.dll
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.AssemblyInfoInputs.cache
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.AssemblyInfo.cs
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.dll
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
+D:\Prashant\ASP.NET Applications\MVCCRUD\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.csprojAssemblyReference.cache
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.deps.json
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.dll
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.csprojAssemblyReference.cache
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.AssemblyInfoInputs.cache
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.AssemblyInfo.cs
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.dll
+D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
