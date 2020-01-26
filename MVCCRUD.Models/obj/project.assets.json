@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\MVCCRUD-Core\\MVCCRUD.Models\\MVCCRUD.Models.csproj",
+      "projectUniqueName": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\MVCCRUD.Models.csproj",
       "projectName": "MVCCRUD.Models",
-      "projectPath": "D:\\Projects\\MVCCRUD-Core\\MVCCRUD.Models\\MVCCRUD.Models.csproj",
+      "projectPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\MVCCRUD.Models.csproj",
       "packagesPath": "C:\\Users\\Prashant\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\MVCCRUD-Core\\MVCCRUD.Models\\obj\\",
+      "outputPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prashant\\AppData\\Roaming\\NuGet\\NuGet.Config",

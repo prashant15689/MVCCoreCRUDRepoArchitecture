@@ -9,3 +9,14 @@ D:\Projects\MVCCRUD-Core\MVCCRUD.Data\bin\Debug\netcoreapp3.1\MVCCRUD.Models.pdb
 D:\Projects\MVCCRUD-Core\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.csproj.CopyComplete
 D:\Projects\MVCCRUD-Core\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.dll
 D:\Projects\MVCCRUD-Core\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.1\MVCCRUD.Data.deps.json
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.1\MVCCRUD.Data.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.1\MVCCRUD.Data.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.1\MVCCRUD.Models.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.1\MVCCRUD.Models.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.csprojAssemblyReference.cache
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.AssemblyInfoInputs.cache
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.AssemblyInfo.cs
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.csproj.CopyComplete
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.1\MVCCRUD.Data.pdb
