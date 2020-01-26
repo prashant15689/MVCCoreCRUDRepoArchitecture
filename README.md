@@ -1,1 +1,1 @@
-# MVCCRUD-Core
+# MVCCoreCRUDRepoArchitecture
