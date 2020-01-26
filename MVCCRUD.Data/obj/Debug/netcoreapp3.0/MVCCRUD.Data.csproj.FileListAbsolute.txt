@@ -3,9 +3,9 @@ D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.0\MVC
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.0\MVCCRUD.Data.pdb
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.0\MVCCRUD.Models.dll
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\bin\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.0\MVCCRUD.Data.csprojAssemblyReference.cache
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.0\MVCCRUD.Data.AssemblyInfoInputs.cache
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.0\MVCCRUD.Data.AssemblyInfo.cs
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.0\MVCCRUD.Data.csproj.CopyComplete
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.0\MVCCRUD.Data.dll
 D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.0\MVCCRUD.Data.pdb
-D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Data\obj\Debug\netcoreapp3.0\MVCCRUD.Data.csprojAssemblyReference.cache
