@@ -5,13 +5,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MVCCRUD.Web.Contexts
+namespace MVCCRUD.Data.Contexts
 {
     public class CompanyDbContext: DbContext
     {
         public CompanyDbContext(DbContextOptions<CompanyDbContext> dbContextOptions): base(dbContextOptions)
         {
-            Database.EnsureCreated();
+            
         }
 
         public DbSet<Departments> Departments { get; set; }

@@ -14,3 +14,10 @@ D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.A
 D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.AssemblyInfo.cs
 D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.dll
 D:\Projects\MVCCRUD-Core\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.deps.json
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Models\bin\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.AssemblyInfoInputs.cache
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.AssemblyInfo.cs
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.Models\obj\Debug\netcoreapp3.0\MVCCRUD.Models.pdb

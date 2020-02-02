@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.BAL\\MVCCRUD.BAL.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.BAL\\MVCCRUD.BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.BAL\\MVCCRUD.BAL.csproj",
+        "projectName": "MVCCRUD.BAL",
+        "projectPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.BAL\\MVCCRUD.BAL.csproj",
+        "packagesPath": "C:\\Users\\Prashant\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prashant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Data\\MVCCRUD.Data.csproj": {
+                "projectPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Data\\MVCCRUD.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Data\\MVCCRUD.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Data\\MVCCRUD.Data.csproj",
+        "projectName": "MVCCRUD.Data",
+        "projectPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Data\\MVCCRUD.Data.csproj",
+        "packagesPath": "C:\\Users\\Prashant\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prashant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\MVCCRUD.Models.csproj": {
+                "projectPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\MVCCRUD.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\MVCCRUD.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\MVCCRUD.Models.csproj",
+        "projectName": "MVCCRUD.Models",
+        "projectPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\MVCCRUD.Models.csproj",
+        "packagesPath": "C:\\Users\\Prashant\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\MVCCoreCRUDRepoArchitecture\\MVCCRUD.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prashant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

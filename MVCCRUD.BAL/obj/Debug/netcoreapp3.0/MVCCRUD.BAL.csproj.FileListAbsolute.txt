@@ -1,0 +1,13 @@
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\bin\Debug\netcoreapp3.0\MVCCRUD.BAL.deps.json
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\bin\Debug\netcoreapp3.0\MVCCRUD.BAL.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\bin\Debug\netcoreapp3.0\MVCCRUD.BAL.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\bin\Debug\netcoreapp3.0\MVCCRUD.Data.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\bin\Debug\netcoreapp3.0\MVCCRUD.Models.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\bin\Debug\netcoreapp3.0\MVCCRUD.Data.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\bin\Debug\netcoreapp3.0\MVCCRUD.Models.pdb
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\obj\Debug\netcoreapp3.0\MVCCRUD.BAL.csprojAssemblyReference.cache
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\obj\Debug\netcoreapp3.0\MVCCRUD.BAL.AssemblyInfoInputs.cache
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\obj\Debug\netcoreapp3.0\MVCCRUD.BAL.AssemblyInfo.cs
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\obj\Debug\netcoreapp3.0\MVCCRUD.BAL.csproj.CopyComplete
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\obj\Debug\netcoreapp3.0\MVCCRUD.BAL.dll
+D:\Projects\MVCCoreCRUDRepoArchitecture\MVCCRUD.BAL\obj\Debug\netcoreapp3.0\MVCCRUD.BAL.pdb
